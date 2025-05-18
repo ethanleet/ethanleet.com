@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Resume
-* English
+* [English PDF](/files/resume_en.pdf)
 * Japanese
 
 ## Education
