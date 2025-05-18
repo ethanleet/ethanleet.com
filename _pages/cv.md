@@ -11,7 +11,7 @@ redirect_from:
 
 ## Resume
 * [English PDF](/files/resume_en.pdf)
-* Japanese
+* 日本語
 
 ## Education
 ### University of California San Diego
