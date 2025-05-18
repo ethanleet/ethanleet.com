@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yiting (Ethan) Li"
   pronouns         : # example: "she/her"
-  bio              : "Software Engineer"
+  bio              : # Software Engineer
   location         : "Kitchener, ON Canada"
   employer         : "Google"
   uri              : # Website

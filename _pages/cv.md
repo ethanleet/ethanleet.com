@@ -9,56 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Resume
+* English
+* Japanese
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+### University of California San Diego
+* M.S. in Computer Science, _Thesis Path w/ Machine Learning focus_, 2017-2021
+* B.S. in Computer Engineering, 2013-2017
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Work experience
+### Google
+* Software Engineer III, _Cloud AI Infrastructure_, 2023-2025
+* Software Engineer III, _Core ML Solutions_, 2022-2023
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### [Housecall Pro](https://www.housecallpro.com/)
+* Software Engineer I, 2021-2022
 
-Publications
-======
+### University of California San Diego
+* Researcher, _[The Cottrell Lab](https://cseweb.ucsd.edu/groups/guru/index.html)_, _Jacobs School of Engineering_, 2018-2019
+
+### [SAIC General Motors](https://www.gm.com.cn/en/home/company/about-us.html)
+* Research Intern, _Autonomous Driving_, _Pan Asia Technical Automotive Center_, 2018
+
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
