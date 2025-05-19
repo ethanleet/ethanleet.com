@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Resume
-* [English PDF](/files/resume_en.pdf)
-* 日本語
+## PDF Download
+* [English Resume](/files/resume_en.pdf)
+* [日本語 職務経歴書](/files/resume_jp.pdf)
 
 ## Education
 ### University of California San Diego
