@@ -11,6 +11,7 @@ redirect_from:
 
 ## PDF Download
 * [English Resume](/files/resume_en.pdf)
+* [日本語 履歴書](/files/cv_jp.pdf)
 * [日本語 職務経歴書](/files/resume_jp.pdf)
 
 ## Education
